@@ -1,0 +1,12 @@
+.selection-wrapper {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+  .selection-title {
+    color: #8E0000;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+  }

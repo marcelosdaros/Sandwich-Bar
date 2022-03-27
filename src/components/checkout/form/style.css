@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.payment-form {
+  margin-left: 24px;
+  margin-right: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: left;
+  max-height: 360px;
+  overflow: scroll;
+}
+  .label-name {
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 8px;
+  }
+
+  .input-content {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 8px 16px 8px 16px;
+  }
+
+  .error-message {
+    font-size: 14px;
+    color: #C62828;
+    font-weight: bold;
+    margin-top: 4px;
+  }
+
+  .date-error, .cvv-error {
+    max-width: 200px;
+  }
+
+  .form-error{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 15px;
+  }
+
+  .card-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .btn-section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: absolute;
+    bottom: 38px;
+  }

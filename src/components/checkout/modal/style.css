@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@0,100;0,300;0,400;1,100&display=swap');
+
+.modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+  .modal {
+    height: 450px;
+    width: 750px;
+    /* 1:1,66 */
+    margin: auto;
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+  }
+
+    .title {
+      margin: inherit;
+      color: #8E0000;
+      font-family: 'Lobster', cursive;
+      font-size: 35px;
+      text-align: center;
+      line-height: 40px;
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+
+    .text {
+      font-family: 'Roboto', sans-serif;
+      font-size: 22px;
+      text-align: justify;
+      line-height: 40px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }

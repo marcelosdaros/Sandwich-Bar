@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+.payment-data {
+  position: relative;
+  max-width: 480px;
+  height: 560px;
+}
+
+  .payment-title {
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    padding: 24px 24px 12px 24px;
+    text-align: left;
+  }

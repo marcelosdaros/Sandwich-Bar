@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@300&display=swap');
+
+.section-selected-ing {
+  position: relative;
+  height: inherit;
+}
+
+  .selected-ing-title {
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    padding: 24px;
+    text-align: left;
+  }
+
+  .selected-ingredients {
+    max-height: 360px;
+    overflow: scroll;
+  }
+
+  .ingredients {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    font-size: 18px;
+    padding: 15px;
+    padding-left: 24px;
+  }
+
+  .end-section-selected-ing {
+    position: absolute;
+    width: 100%;
+    bottom: 38px;
+  }
+
+    .total-value {
+      font-family: 'Roboto', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      padding-bottom: 24px;
+    }
+
+    .btn-wrapper {
+      display: flex;
+      flex-direction: row;
+    }

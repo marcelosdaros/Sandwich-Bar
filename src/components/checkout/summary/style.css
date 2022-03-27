@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+  .order-summary {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+  }
+      
+    .thanks-message, .order-summary-title {
+      font-size: 24px;
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+
+    .thanks-message {
+      color: #8E0000;
+    }
+
+    .order-summary-title{
+      font-weight: bold;
+    }
+
+    .ingredients-list {
+      margin: auto;
+      margin-top: 10px;
+      max-width: 205px;
+    }
+
+      .ingredient, .price {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height: 18px;
+        text-align: left;
+      }
+
+      .price {
+        font-weight: 600;
+      }

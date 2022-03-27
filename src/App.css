@@ -1,0 +1,55 @@
+
+.site-content {
+  max-width: 1280px;
+  margin: auto;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: hidden;
+}
+
+::-webkit-scrollbar-thumb {
+  background:rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+::-webkit-scrollbar-corner {
+  background: #FFC107;
+}
+
+  .section-wrapper {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+  }
+
+    .flex-container-1 {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: 680px;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+
+      .burger-img{
+        height: 250px;
+        width: 286px;
+        align-self: center;
+      }
+
+    .flex-container-2 {
+      width: 100%;
+      max-width: 480px;
+      height: 560px;
+      background-color: #FFC107;
+      border-radius: 4px;
+    }
