@@ -112,6 +112,7 @@ class App extends Component {
       currentSelection: 'Pão',
       currentIngredients: this.breads,
       selectedIngredients: [],
+      continueBtnDisabled: true,
       totalPrice: 0
     })
 
