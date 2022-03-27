@@ -1,5 +1,8 @@
 # Projeto final: Montagem de sanduíches
-O nosso projeto final para a conclusão de curso será uma aplicação para montagem de sanduíches. Os objetivos são colocar uma aplicação de vida real para desenvolvimento de suas habilidades que possa utilizar o máximo dos conhecimentos que desenvolvemos em sala de aula.
+Esse projeto proposto pela Let's Code consiste em uma aplicação para montagem de sanduíches. Os objetivos são colocar uma aplicação de vida real para desenvolvimento de habilidades que possa utilizar o máximo dos conhecimentos obtidos ao longo do curso Web Full Stack Degree. As regras e desafios propostos estão descritos abaixo.
+
+## Futuras implementações
+Além das regras obrigatórias descritas abaixo que foram desenvolvidas utilizando React e Componentização, os próximos passos para melhorar o projeto são fazê-lo responsivo e fácil de manuseá-lo em qualquer dispositivo eletrônico, seja smartphone, tablet, notebook, etc, e implementar um menu através de um modal que é exibido na tela quando o usuário clicar num botão chamado "Ver preços", nesse modal o preço de cada ingrediente será mostrado na tela para um melhor acompanhamento do pedido e para que o usuário consiga saber todos os ingredientes disponíveis bem como seus preços antes de montar seu sanduíche.
 
 ## Regras de desenvolvimento
 
@@ -144,28 +147,3 @@ O formulário deve possuir os seguintes campos: Nome, Número do Cartão, Data d
  - O campo de data de vencimento não pode ter uma data anterior a atual
  - O campo CVV deve conter 3 dígitos numéricos
  - O campo CPF deve conter 11 dígitos numéricos.
-
-## Critérios de avaliação
-
-Serão avaliados:
-
- - O quão completa está a aplicação comparada a proposta
- - Utilização de estruturas aprendidas em sala de aula
- - Boas práticas de programação
- - Componentização de código
- - Reutilização de componentes genéricos
- - Proximidade com o template proposto
- - Documentação do projeto
- - Legibilidade do código
- - Manutenibilidade do código
-
-**Não serão permitidos e tolerados (sujeito a perda de pontos, inclusive todos eles)**
-
- - Cópias
- - Bibliotecas externas não listadas ou previamente combinadas
- - Inserção de conteúdo desrespeitoso ou ofensivo na aplicação
- - Edição do projeto após a entrega
-
-## Entrega do Projeto
-
-A entrega deve ser realizada no class a partir de um link para um repositório público com o projeto realizado. A data final para recebimento do trabalho será 25/03/2022, projetos entregues após esta data serão desconsiderados e zerados.

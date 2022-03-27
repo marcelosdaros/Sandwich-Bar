@@ -41,7 +41,7 @@ class App extends Component {
       {item: 'Bacon', price: 4},
       {item: 'Cebola Caramelizada', price: 2},
       {item: 'Molho Especial', price: 3},
-      {item: 'Pimenta Jalapão', price: 3}
+      {item: 'Pimenta Jalapeño', price: 3}
     ]
     this.state = {
       appTitle: 'Monte seu Sanduíche',
