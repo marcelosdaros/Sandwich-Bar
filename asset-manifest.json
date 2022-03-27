@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Sandwich-Bar/static/css/main.00f44832.css",
-    "main.js": "/Sandwich-Bar/static/js/main.67bff585.js",
+    "main.js": "/Sandwich-Bar/static/js/main.ded9d090.js",
     "static/js/787.c91406dd.chunk.js": "/Sandwich-Bar/static/js/787.c91406dd.chunk.js",
     "static/media/hamburguer-icon.png": "/Sandwich-Bar/static/media/hamburguer-icon.50efad53b44f5488b898.png",
     "index.html": "/Sandwich-Bar/index.html",
     "main.00f44832.css.map": "/Sandwich-Bar/static/css/main.00f44832.css.map",
-    "main.67bff585.js.map": "/Sandwich-Bar/static/js/main.67bff585.js.map",
+    "main.ded9d090.js.map": "/Sandwich-Bar/static/js/main.ded9d090.js.map",
     "787.c91406dd.chunk.js.map": "/Sandwich-Bar/static/js/787.c91406dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00f44832.css",
-    "static/js/main.67bff585.js"
+    "static/js/main.ded9d090.js"
   ]
 }
